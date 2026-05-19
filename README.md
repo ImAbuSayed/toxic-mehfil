@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/toxic-mehfil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Toxic Mehfil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/toxic-mehfil/) |
+| **Get License** | [Obtain a Music License for Toxic Mehfil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/toxic-mehfil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Raat di khamoshi vich baby your glow
+> Saanu pagal karda ae moving so slow
+> Teri akhaan da jaadu taking my soul
+> Main tera deewana haan you gotta know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
