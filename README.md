@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/toxic-mehfil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Toxic Mehfil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/toxic-mehfil/) |
+| **Get License** | [Secure Licensing Rights for Toxic Mehfil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/toxic-mehfil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7675760c8bd91b5a009031e5b36867ad43a0b2035f9f6263187a152e405ff83d` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

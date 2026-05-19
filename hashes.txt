@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Toxic Mehfil
+
+This log tracks the cryptographic history and versioning for the song **Toxic Mehfil** (toxic-mehfil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T17:27:51.623048 | `v1` | `7675760c8bd91b5a009031e5b36867ad43a0b2035f9f6263187a152e405ff83d` | `b5ba0f826cfb925e055586c4f1a32a19065a8963fccf45a51095464f7c1d8bd1` | `2026-05-19_toxic-mehfil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
